@@ -3,7 +3,7 @@ Hello there 👋
 
 About Me
 ---
-- 👋 Hi, I’m @JagadeeswarT, working as a Software Engineer
+- 👋 I’m @JagadeeswarT, working as a Software Engineer
 - 👀 I graduated in 2022
 - 🌱 I’m currently learning c#
 - 💞️ Interests: Listening songs, playing chess
