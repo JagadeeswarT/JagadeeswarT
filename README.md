@@ -1,7 +1,9 @@
 Hello there 👋
 ---
 
-- 👋 Hi, I’m @JagadeeswarT
+About Mes
+---
+- 👋 Hi, I’m @JagadeeswarT, working as a Software Engineer
 - 👀 I’m interested in web development,python,linux
 - 🌱 I’m currently learning java, c#
 - 💞️ I’m looking to collaborate on github content
