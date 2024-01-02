@@ -3,9 +3,9 @@ Hello there 👋
 
 About Me
 ---
-- 👋 I’m @JagadeeswarT, working as a Software Engineer
+- 👋 I’m @JagadeeswarT, working as a Software Engineer @Oracle
 - 👀 I graduated in 2022
-- 🌱 Technical Skills: Python, JavaScript, TypeScript, React, Java, HTML, CSS, BootStrap, C#
+- 🌱 Working on C#
 - 💞️ Interests: playing chess, video games
 
 Tech Stack
