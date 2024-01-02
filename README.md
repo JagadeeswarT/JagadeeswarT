@@ -5,8 +5,8 @@ About Me
 ---
 - 👋 I’m @JagadeeswarT, working as a Software Engineer
 - 👀 I graduated in 2022
-- 🌱 I’m currently learning c#
-- 💞️ Interests: Listening songs, playing chess
+- 🌱 Technical Skills: Python, JavaScript, TypeScript, React, Java, HTML, CSS, BootStrap, C#
+- 💞️ Interests: playing chess, video games
 
 Tech Stack
 ---
